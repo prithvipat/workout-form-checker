@@ -1,9 +1,9 @@
 # Workout Form Checker App
 
 ## Idea
-Many people who When people initially join a gym, they typically don’t know what they’re 
-doing or start off with bad form unless they have someone to go with. This app, shows you 
-the correct way of doing it and is able to record your sets tells you whats wrong with it. 
+When people initially join a gym, they typically don’t know what they’re 
+doing and/or start off with bad form unless they have someone to go with. This app, shows you 
+the correct way of doing it and is able to record your sets tells you whats wrong with it. In this way newcomers won't be affair to come into the gym and have the fear of messing up
 
 
 ## Strategy
